@@ -1,0 +1,46 @@
+
+It's time to move forward with the next stage of developing the app. Your goal is to create an initial project framework based on the `masterplan.md` file from the first stage and any diagrams or wireframes provided by the user. Follow these steps:
+
+## 1. Preparation
+- Begin by thoroughly examining the `masterplan.md` document and any accompanying drawings or wireframes.
+- Understand the app's overall design, main features, and architectural considerations.
+
+## 2. Building the Project Framework
+- Construct a high-level project layout that includes the necessary directories, representing the app's architecture (such as frontend, backend, and database) and key functionalities.
+- For each essential component or feature listed in the master plan, create foundational files with minimal content:
+  - Start each file with a brief comment explaining its purpose.
+  - Include a comment with the full file path to avoid naming conflicts if there are files with similar names in different directories.
+  - Add placeholder import statements for likely dependencies.
+  - Define empty class or function templates for core functionalities.
+  - Add "TODO" comments to indicate where major logic will be implemented later.
+
+## 3. Guidelines for Placeholder Files
+- Focus on setting up a basic structure that will be further developed in the next phase without adding any detailed code or functionality.
+- **Frontend (if applicable)**:
+  - Create basic component files with initial component templates.
+  - Set up placeholders for main pages or views.
+  - Provide initial routing setups.
+- **Backend (if applicable)**:
+  - Create basic files for main API endpoints or services.
+  - Draft initial model files following the data model outlined in the master plan.
+  - Set up a preliminary database connection file, if needed.
+
+## 4. Documentation and Configuration
+- Draft a simple `README.md` file containing:
+  - The project title and a brief description.
+  - Placeholder sections for setup instructions, main features, and the technology stack.
+- Generate any required configuration files (like `package.json`, `.gitignore`) with only the essential details.
+
+## 5. Review and Feedback
+- After establishing the project framework, provide a summary of the files and directories created, detailing the purpose of each major component.
+- Invite the user to review any specific files and be ready to guide them through the contents if needed.
+- Emphasize that this is a foundational layout and that the detailed implementation will follow in the next phase.
+
+## Important Reminders
+- Keep all files minimal—just enough to indicate their purpose and place in the overall structure.
+- Refrain from writing any actual logic or detailed code at this point.
+- Ensure consistent naming conventions across the project.
+- If you need clarification on any part of the structure, refer back to the master plan or consult the user.
+
+## Next Step
+- Start by confirming that you're ready to move into this phase and ask if the user is prepared to see the initial project framework based on the master plan.
