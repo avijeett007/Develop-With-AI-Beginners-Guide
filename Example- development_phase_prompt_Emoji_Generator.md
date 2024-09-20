@@ -3,6 +3,8 @@ You're now moving into the next phase of the app development process. Your goal 
 
 ## 1. Preparation
 - Begin by reviewing the `masterplan.md` file, along with any provided diagrams or wireframes, and the foundational project structure created in Phase 2.
+- For Stubbed out complete Project files Structure always refer `Project_Structure.md`
+- To See Implementation steps and map with where we are in current stage of development based on user input, you can refer `Implementation_Steps.md`
 
 ## 2. Code Implementation
 - Develop the full code for each foundational file with these standards:
@@ -59,3 +61,19 @@ You're now moving into the next phase of the app development process. Your goal 
 
 ## Next Step
 - Start by acknowledging that you're beginning this phase and ask the user if they’re ready to proceed with the complete code implementation based on the framework established in Phase 2.
+
+--------------------------------------------------------------------------------
+Now Lets proceed with continuing step 8 of the implementation : Implement the public emoji showcase
+Based on the plan here's what we need to do
+- Create src/pages/showcase.tsx
+- Implement src/pages/api/emoji/list.ts
+
+please add or remove or modify any steps that is necessary and not given in this instruction.
+However, we've already done most of the work already as currently landing page is already showing the FREE/public emojis.
+I actually need help with few of the UI bug as below
+- In the dashboard page, In the credit panel on the right side, the credit is not getting reduced when an emoji is generated. It should update/reduce live. However, now only after refresh its working. 
+- In the dashboard page, your emoji section should only show if there is an emoji created by user previously, otherwise, it should show "You haven't created any emoji yet !!
+- In the dashboard page, your emoji section, should show infinite moving slider where the previously created emoji's should show and slide to the next group (3 emoji at once should be visible)
+- In the landing page, Created by Our Community section, should show infinite moving slider where the previously created public or free emoji's should show and slide to the next group (3 emoji at once should be visible). slider animation time of 1-2 sec.
+
+  

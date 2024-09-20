@@ -1,0 +1,7 @@
+This looks good. However, I'd like to update a few thing. 
+
+1> In the main section, there should be one button "Generate Emoji". And based on user logged in or not, either it should pop up the Signin component. If logged in, redirect the page to the homepage.
+
+2> We can make the landing page attractive by displaying our publicly available emoji's as user creates in unlimited slider. Refer the image I've attached to create the component.
+
+At the moment, there is no emoji generated, so may be we can use one placeholder image (I'll add in the public/images folder as emoji.png) but the landing page should show the emoji's once avaialble
