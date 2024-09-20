@@ -4,7 +4,7 @@ Welcome to the repository! This is your one-stop resource for all the **Claude A
 
 ## 🎥 Watch the Full YouTube Tutorial
 
-[![Watch the tutorial on YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the tutorial on YouTube](https://img.youtube.com/vi/oC8lJKeZvwA/maxresdefault.jpg)](https://www.youtube.com/watch?v=oC8lJKeZvwA)
 
 Watch the complete walkthrough on how to use these prompts and build your own SaaS or Full-Stack app.
 
